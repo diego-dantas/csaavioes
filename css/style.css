@@ -1,0 +1,75 @@
+
+#logo a img{
+    width: 100px;
+    height: 50px; 
+}
+
+#navBarCustom li a{
+    color: white;
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+.carousel-item img{
+    height: 400px;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#articleCustom {
+    padding-top: 20px;
+}
+
+#articleCustom img{
+    width: 250px;
+}
+
+#articleCustom table{
+    text-align: center;
+    color: white;
+}
+
+.linhaCustom01{
+    background-color: #017BAA;
+}
+
+.linhaCustom02{
+    background-color: #014D8B;
+}
+
+
+#vitrineCustom img{
+    width: 350px;
+    height: 200px;
+}
+
+#vitrineCustom div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+}
+
+.imgVitrine {
+    display: inline-block;
+    position: relative;
+}
+
+.imgVitrine figcaption {
+    position:  absolute;
+    bottom: 10px;
+    color: white;
+    font-size: 20px;
+    left: 125px;
+    
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: #014D8B;
+}
+
