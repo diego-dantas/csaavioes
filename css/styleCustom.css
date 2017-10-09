@@ -1,7 +1,6 @@
-
 #logo a img{
     width: 100px;
-    height: 100px; 
+    height: 50px; 
 }
 
 #navBarCustom li a{
@@ -21,8 +20,9 @@
     background-size: cover;
 }
 
+
 #carouselExampleIndicators{
-	margin-top: 100px;
+	margin-top: 75px;
 }
 
 #articleCustom {
@@ -41,6 +41,7 @@
 .linhaCustom01{
     background-color: #017BAA;
 }
+
 
 .linhaCustom02{
     background-color: #014D8B;
@@ -77,4 +78,3 @@ h2 {
     text-align: center;
     color: #014D8B;
 }
-

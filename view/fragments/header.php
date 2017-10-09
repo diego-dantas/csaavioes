@@ -3,7 +3,7 @@
     *   Created by Diego Dantas on 30/09/2017 
     */
 ?>
-<nav class="navbar fixed-top navbar-expand-lg bg-dark fixed-top">
+<nav class="navbar fixed-top navbar-expand-lg bg-white fixed-top">
     <div class="container">
         <div id="logo">
             <a class="navbar-brand" href="index.php">                        
