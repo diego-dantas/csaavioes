@@ -20,7 +20,7 @@
             </div>
             <!--include do carrossel-->
             <div>
-                <?php include('view\fragments\carousel.php');?>
+                <?php include('view/fragments/carousel.php');?>
             </div>
 
             <div>
