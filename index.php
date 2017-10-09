@@ -16,7 +16,7 @@
 
             <!--include do cabeçalho-->
             <div>
-                <?php include('view\fragments\header.php');?>
+                <?php include('view/fragments/header.php');?>
             </div>
             <!--include do carrossel-->
             <div>
@@ -24,7 +24,7 @@
             </div>
 
             <div>
-                <?php include('view\fragments\preArticle.php');?>
+                <?php include('view/fragments/preArticle.php');?>
             </div>            
             <div class="container">
 
@@ -121,12 +121,12 @@
 
             <!--include parceiros-->
             <div>
-                <?php include('view\fragments\parceiros.php');?>
+                <?php include('view/fragments/parceiros.php');?>
             </div>
 
             <!--include do rodape-->
             <div>
-                <?php include('view\fragments\footer.php');?>
+                <?php include('view/fragments/footer.php');?>
             </div>
            
             <!-- Bootstrap core JavaScript -->
