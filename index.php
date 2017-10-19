@@ -129,6 +129,7 @@
                 <?php include('view/fragments/footer.php');?>
             </div>
            
+		   
             <!-- Bootstrap core JavaScript -->
             <script src="js/jquery/jquery.min.js"></script>
             <script src="js/popper/popper.min.js"></script>
