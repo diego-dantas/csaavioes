@@ -11,14 +11,9 @@
         <hr class="col-md-4 col-sm-6" color="#014D8B" size="2">
     </div> 
     <div class="row">
-        <div class="col-md-4">
-            <img src="img\bma.jpg" alt="">
+        <div id="parceiros" class="col-md-12">
+            <img src="img\parceiros.jpg" alt="">
         </div>
-        <div class="col-md-4">
-            <img src="img\FOXTRAVEL.jpg" alt="">
-        </div>
-        <div class="col-md-4">
-            <img src="img\sanguia.png" alt="">
-        </div>
+        
     </div>
 </article>

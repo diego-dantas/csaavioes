@@ -39,7 +39,6 @@
                         <div class="card h-100">
                             <figure class="imgVitrine">
                                 <a href="#"><img class="card-img-top" src="img/monomotor.jpg" alt=""></a>
-                                <figcaption>Monomotor</figcaption>
                             </figure>
                         </div>
                     </div>
@@ -48,7 +47,6 @@
                         <div class="card h-100">
                             <figure class="imgVitrine">
                                 <a href="#"><img class="card-img-top" src="img/bimotor.jpg" alt=""></a>
-                                <figcaption>Binomotor</figcaption>
                             </figure>                            
                         </div>
                     </div>
@@ -56,8 +54,7 @@
                     <div class="col-lg-4 col-sm-6 portfolio-item">
                         <div class="card h-100">
                             <figure class="imgVitrine">
-                                <a href="#"><img class="card-img-top" src="img/turboHelice.jpg" alt=""></a>
-                                <figcaption>Turbo Hélice</figcaption>
+                                <a href="#"><img class="card-img-top" src="img/Turbo-Hélice.jpg" alt=""></a>
                             </figure>                                                        
                         </div>
                     </div>
@@ -66,7 +63,6 @@
                         <div class="card h-100">
                             <figure class="imgVitrine">
                                 <a href="#"><img class="card-img-top" src="img/jato.jpg" alt=""></a>
-                                <figcaption>Jato</figcaption>
                             </figure>                                               
                         </div>
                     </div>
@@ -75,7 +71,6 @@
                         <div class="card h-100">
                             <figure class="imgVitrine">
                                <a href="#"><img class="card-img-top" src="img/helicoptero.jpg" alt=""></a>
-                                <figcaption>Helicóptero</figcaption>
                             </figure>                                                    
                         </div>
                     </div>
@@ -84,7 +79,6 @@
                         <div class="card h-100">
                             <figure class="imgVitrine">
                                <a href="#"><img class="card-img-top" src="img/agricola.jpg" alt=""></a>
-                                <figcaption>Agrícola</figcaption>
                             </figure>                                              
                         </div>
                     </div>
@@ -93,7 +87,6 @@
                         <div class="card h-100">
                             <figure class="imgVitrine">
                                <a href="#"><img class="card-img-top" src="img/Experimental.jpg" alt=""></a>
-                                <figcaption>Experimental</figcaption>
                             </figure>                                           
                         </div>
                     </div>
@@ -102,7 +95,6 @@
                         <div class="card h-100">
                             <figure class="imgVitrine">
                                <a href="#"><img class="card-img-top" src="img/imoveis.jpg" alt=""></a>
-                                <figcaption>Imóveis</figcaption>
                             </figure>                                               
                         </div>
                     </div>
@@ -110,8 +102,7 @@
                     <div class="col-lg-4 col-sm-6 portfolio-item">
                         <div class="card h-100">
                             <figure class="imgVitrine">
-                               <a href="#"><img class="card-img-top" src="img/outro.jpg" alt=""></a>
-                                <figcaption>Outros</figcaption>
+                               <a href="#"><img class="card-img-top" src="img/outros.jpg" alt=""></a>
                             </figure>                             
                         </div>
                     </div>
