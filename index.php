@@ -102,7 +102,7 @@
                     <div class="col-lg-4 col-sm-6 portfolio-item">
                         <div class="card h-100">
                             <figure class="imgVitrine">
-                               <a href="#"><img class="card-img-top" src="img/outros.jpg" alt=""></a>
+                               <a href="#"><img class="card-img-top" src="img/outro.jpg" alt=""></a>
                             </figure>                             
                         </div>
                     </div>
