@@ -1,14 +1,18 @@
-<?php
-    /**
-    *   Created by Diego Dantas on 30/09/2017 
-    */
-?>
- <!--Menu com logo-->
+<!DOCTYPE html>
+    <hmtl>
+        <head>
+            <meta charset="utf-8">
+
+            <link href="../../css/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+            <link href="../../css/styleCustom.css" rel="stylesheet">
+        </head>
+        <body>
+            <!--Menu com logo-->
             <nav id="navBarCustom1" class="navbar fixed-top navbar-expand-lg navbar-light bg-faded fixed-top" style="display: none;">
                 <div class="container-fluid"> 
                     <div id="logo"> 
                         <a class="navbar-brand" href="index.php">                        
-                            <img src="img/Logo.png" alt="">                               
+                            <img src="../../img/Logo.png" alt="">                               
                         </a>
                     </div>
                     <div class="row">                           
@@ -59,7 +63,7 @@
                 <div class="row">
                     <div id="logoMain" class="col-md-3"> 
                         <a class="navbar-brand" href="index.php">                        
-                            <img src="img/Logo.png" alt="">                               
+                            <img src="../../img/Logo.png" alt="">                               
                         </a>
                     </div>
                     
@@ -71,6 +75,15 @@
                     </div>
                 </div>
             </header>
+            <br><br><br><br><br><br><br><br><br><br><br><br>
+            
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>to aui
+            <!-- Bootstrap core JavaScript -->
+            <script src="../../js/jquery/jquery.min.js"></script>
+            <script src="../../js/popper/popper.min.js"></script>
+            <script src="../../css/bootstrap/js/bootstrap.min.js"></script>   
+
             <script>
                 window.onscroll = function(){
                     var top = window.pageYOffset || document.documentElement.scrollTop
@@ -85,3 +98,5 @@
                     }
                 }
             </script>
+        </body>
+    </hmtl>

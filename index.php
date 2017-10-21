@@ -124,6 +124,7 @@
             <!-- Bootstrap core JavaScript -->
             <script src="js/jquery/jquery.min.js"></script>
             <script src="js/popper/popper.min.js"></script>
-            <script src="css/bootstrap/js/bootstrap.min.js"></script>
+            <script src="css/bootstrap/js/bootstrap.min.js"></script>   
+
         </body>
     </hmtl>
