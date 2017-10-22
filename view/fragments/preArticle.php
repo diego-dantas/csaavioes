@@ -24,10 +24,10 @@
             </table>
         </div>
         <div class="col-md-4">
-            <img src="img\anac.jpg" alt="">
+            <a href="http://www.anac.gov.br/" target="_blank"><img src="img\anac.jpg" alt=""></a>
         </div>
         <div class="col-md-4">
-            <img src="img\anatel.jpg" alt="">
+        <a href="http://www.anatel.gov.br/institucional/" target="_blank"><img src="img\anatel.jpg" alt=""></a>
         </div>
     </div>
 </article>

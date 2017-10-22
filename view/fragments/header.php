@@ -2,6 +2,11 @@
     /**
     *   Created by Diego Dantas on 30/09/2017 
     */
+    date_default_timezone_set('America/Sao_Paulo');
+    $diasemana = array('Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sabado');
+    $data = date('d/m/Y');
+    $diasemana_numero = date('w', time());
+
 ?>
  <!--Menu com logo-->
             <nav id="navBarCustom1" class="navbar fixed-top navbar-expand-lg navbar-light bg-faded fixed-top" style="display: none;">
@@ -29,13 +34,13 @@
                 </div> 
             </nav>
 
-            <nav id="navBarCustom" class="navbar navbar-expand-lg navbar-light bg-dark">
+            <nav id="navBarCustom" class="navbar navbar-expand-md navbar-dark bg-dark">
                 <div class="container">
                     <div class="row">                           
-                        <div class="">
+                        <div class="col-md-12">
                             <!--Botão para menu responsivel-->
                             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                                <span id="testeCor" class="navbar-toggler-icon"></span>
+                                <span class="navbar-toggler-icon"></span>
                             </button>                        
                             <div class="collapse navbar-collapse" id="navbarResponsive">
                                 <ul id="" class="navbar-nav ml-auto">
