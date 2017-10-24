@@ -92,11 +92,20 @@
 }
 
 .linhaCustom01{
-    background-color: #017BAA;
+    background-color: #014D8B;
 }
 
 .linhaCustom02{
-    background-color: #014D8B;
+    background-color: #017BAA;
+}
+
+#imgBoi img{
+    width: 60px;
+}
+
+#notId a img{
+  width: 130px;
+  margin: 10px;
 }
 
 #vitrineCustom img{

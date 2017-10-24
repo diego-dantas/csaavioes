@@ -3,8 +3,11 @@
         <div class="col-md-4">
             <table id="tableCustom" class="table-condensed"> 
                 <tr class="linhaCustom01">
-                    <td colspan="3" >
-                        Arroba do boi - Média SP a prazo<br>
+                    <td id="imgBoi" colspan="1">
+                        <img src="https://cdn.noticiasagricolas.com.br/dbimagens/cotacoes/dd6cb4db4ae7ab6f6966c287a058ef7e.jpg">
+                    </td>
+                    <td colspan="2" >
+                        Boi Gordo - Média SP a prazo<br>
                         Fonte: Cepea/Esalq
                     </td>
                 </tr>
@@ -19,7 +22,12 @@
                     <td>-1,24</td>
                 </tr>
                 <tr class="linhaCustom02">
-                    <td colspan="3">Fechamento 02/10/2017</td>
+                    <td colspan="2">Fechamento 02/10/2017</td>
+                    <td id="notId" colspan="1">
+                        <a href="https://www.noticiasagricolas.com.br/" target="_blank">
+                        <img src="https://cdn.noticiasagricolas.com.br/static/img/layout/na_logo_minusculo.png">
+                        </a>
+                    </td>        
                 </tr>
             </table>
         </div>

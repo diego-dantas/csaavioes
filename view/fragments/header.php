@@ -79,14 +79,12 @@
             <script>
                 window.onscroll = function(){
                     var top = window.pageYOffset || document.documentElement.scrollTop
-                   if( top > 50 ) {
-                    console.log('Maior que 50');                       
+                   if( top > 70 ) {                      
                         document.getElementById("navBarCustom1").style.display = 'block';
                         document.getElementById("navBarCustom").style.display = 'none';
                     }else{
                         document.getElementById("navBarCustom1").style.display = 'none';
-                        document.getElementById("navBarCustom").style.display = 'block';
-                        console.log('Menor que 50');
+                        document.getElementById("navBarCustom").style.display = 'block';                       
                     }
                 }
             </script>
