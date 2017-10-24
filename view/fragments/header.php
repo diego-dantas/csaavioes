@@ -34,7 +34,7 @@
                 </div> 
             </nav>
 
-            <nav id="navBarCustom" class="navbar navbar-expand-md navbar-dark bg-dark">
+            <nav id="navBarCustom" class="navbar navbar-expand-md navbar-dark bg-blue">
                 <div class="container">
                     <div class="row">                           
                         <div class="col-md-12">

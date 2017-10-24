@@ -4,7 +4,7 @@
             <table id="tableCustom" class="table-condensed"> 
                 <tr class="linhaCustom01">
                     <td id="imgBoi" colspan="1">
-                        <img src="https://cdn.noticiasagricolas.com.br/dbimagens/cotacoes/dd6cb4db4ae7ab6f6966c287a058ef7e.jpg">
+                        <img src="img/boi.jpg">
                     </td>
                     <td colspan="2" >
                         Boi Gordo - Média SP a prazo<br>
